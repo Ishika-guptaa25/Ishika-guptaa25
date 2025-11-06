@@ -1,93 +1,112 @@
-<!-- 💫 Fancy GitHub README for Ishika Gupta -->
-<h1 align="center" style="color:#00BFFF;">Hi 👋, I'm Ishika Gupta</h1>
-<h3 align="center">🚀 BCA Student | DevOps Enthusiast | Data Science Learner</h3>
+<!-- 🌈 Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Ishika%20Gupta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
 
----
-
-### 💡 About Me
-🎯 Passionate about **DevOps**, **Cloud Technologies**, and **Data Analytics**  
-💻 Skilled in both **programming** and **infrastructure automation**  
-☁️ Currently exploring **Docker, Jenkins, AWS, and CI/CD pipelines**  
-📈 Love solving problems and visualizing data for real-world insights  
-🧠 Constantly learning & improving my skills — because growth never stops 🌱  
+<!-- ✨ Typing Intro -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ishika+Gupta+👋;BCA+Student+💻;Tech+Explorer+🚀;Data+Science+Learner+📊;Welcome+to+my+GitHub!"/>
+  </a>
+</p>
 
 ---
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/ishika-gupta-y25081402">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ishikagpt1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Ishika-guptaa25">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/ishika-gupta-y25081402"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ishikagpt1@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF1493?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Ishika-guptaa25"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🧰 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,linux,docker,jenkins,kubernetes,aws,git,github,mysql,html,css,js,vscode" />
-</p>
+### 🌸 About Me
+🎓 I’m **Ishika Gupta**, a **BCA student** with a deep interest in **Data Science, Analytics, and Software Development**.  
+💡 I love transforming data into insights and solving logical problems with creativity.  
+📊 Currently exploring: **Machine Learning, Python libraries, and Visualization tools.**  
+🌱 Always learning new things — because growth never stops ✨
 
 ---
 
-### 🧠 Skills Breakdown
+### 💻 My Skills
+#### 🖥️ **Programming**
+`Python` • `Java` • `SQL` • `HTML` • `CSS` • `JavaScript` • `DSA`
 
-#### 🖥️ **Programming Languages**
-`Python` • `Java` • `SQL` • `HTML` • `CSS` (basics) • `JavaScript` • `DSA`
+#### 📚 **Libraries & Frameworks**
+`Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `Advance Java`
 
-#### 🧩 **Frameworks & Libraries**
-`Advance Java` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-learn`
+#### 🗄️ **Database & Tools**
+`MySQL` • `DBMS` • `Git` • `GitHub` • `VS Code`
 
-#### 🗃️ **Database & Tools**
-`MySQL` • `DBMS`
-
-#### 📊 **Data Science & Analytics**
-`Data Preprocessing` • `EDA` • `Statistical & Descriptive Analysis` • `Data Visualization`
-
-#### ⚙️ **Software Development**
-`OOP Concepts` • `GUI Development` • `Git & GitHub` (basics)
-
-#### 💼 **Fundamentals**
+#### 💡 **Core Subjects**
 `Operating Systems` • `Computer Networks` • `SDLC` • `Software Models`
 
-#### 🌟 **Soft Skills**
-`Problem-Solving` • `Analytical Thinking` • `Communication` • `Teamwork` • `Adaptability` • `Time Management` • `Creativity`
+#### 🌼 **Soft Skills**
+`Problem Solving` • `Analytical Thinking` • `Communication` • `Teamwork` • `Time Management`
+
+---
+
+### 🧰 Tech Stack Visual
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,js,git,github,vscode,linux" />
+</p>
 
 ---
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishika-guptaa25&show_icons=true&theme=tokyonight&hide_border=true" height="170px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishika-guptaa25&theme=tokyonight&hide_border=true" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishika-guptaa25&show_icons=true&theme=rose_pine&hide_border=true" height="170px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishika-guptaa25&theme=rose_pine&hide_border=true" height="170px" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ishika-guptaa25&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ishika-guptaa25&theme=gruvbox&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
+### 🌈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishika-guptaa25&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishika-guptaa25&theme=dracula&hide_border=true" />
 </p>
 
 ---
 
-### 💬 Dev Quote of the Day
+### 📈 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishika-guptaa25&layout=compact&theme=rose_pine&hide_border=true" />
+</p>
+
+---
+
+### 💬 Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
 
-<h4 align="center">⭐ “Automate what you can, analyze what you can’t.” — Ishika Gupta</h4>
+### 💕 Fun Zone
+🎵 *“Unstoppable” by Sia is my power anthem*  
+☕ *Fueled by coffee and curiosity*  
+💭 Motto: *“Turn ideas into impact — one line of code at a time.”*
+
+---
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ishika-guptaa25&label=Profile%20Views&color=ff69b4&style=flat" />
+</p>
+
+---
+
+<h4 align="center">⭐ “Analyze what you see, build what you dream.” — Ishika Gupta</h4>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
+</p>
 
