@@ -13,6 +13,21 @@
 
 ---
 
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/ishika-gupta-y25081402">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ishikagpt1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ishika-guptaa25">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ### 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,linux,docker,jenkins,kubernetes,aws,git,github,mysql,html,css,js,vscode" />
@@ -70,21 +85,6 @@
 ### 💬 Dev Quote of the Day
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/ishika-gupta-Y25081402" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ishikagupta25@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Ishika-guptaa25">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
