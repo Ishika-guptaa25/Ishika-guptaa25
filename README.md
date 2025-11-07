@@ -28,25 +28,6 @@ Always learning and evolving with curiosity and creativity.
 
 ---
 
-### Technical Skills
-
-#### Programming
-`Python` • `Java` • `SQL` • `HTML` • `CSS` • `JavaScript` • `DSA`
-
-#### Libraries & Frameworks
-`Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `Advance Java`
-
-#### Database & Tools
-`MySQL` • `DBMS` • `Git` • `GitHub` • `VS Code`
-
-#### Core Subjects
-`Operating Systems` • `Computer Networks` • `SDLC` • `Software Models`
-
-#### Soft Skills
-`Problem Solving` • `Analytical Thinking` • `Communication` • `Teamwork` • `Time Management`
-
----
-
 ### Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,js,git,github,vscode,linux" />
