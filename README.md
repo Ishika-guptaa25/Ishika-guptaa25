@@ -51,10 +51,11 @@ Always learning and evolving with curiosity and creativity.
 ---
 
 ### Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishika-guptaa25&theme=dracula&hide_border=true" />
-</p>
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ---
 
 ### Most Used Languages
