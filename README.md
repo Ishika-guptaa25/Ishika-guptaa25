@@ -12,18 +12,15 @@
 
 ---
 
-###  About Me
-Hi! I’m **Ishika Gupta**, a **BCA student** passionate about **Data Science, Analytics, and Software Development**.  
-I enjoy **transforming data into insights**, building **impactful projects**, and constantly learning new technologies.  
-
- **Currently exploring:**  
-- Machine Learning & AI  
-- Data Visualization (Python & Power BI)  
-- Python Libraries (Pandas, NumPy, Matplotlib, Seaborn)  
+### About Me
+I’m **Ishika Gupta**, a **BCA student** passionate about **Data Science, Analytics, and Software Development**.  
+I love transforming data into insights and building meaningful digital solutions.  
+Currently exploring **Machine Learning, Data Visualization, and Python Libraries**.  
+Always learning and evolving with curiosity and creativity.
 
 ---
 
-###  Connect with Me
+### Contact
 <p align="center">
   <a href="https://www.linkedin.com/in/ishika-gupta-y25081402"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ishikagpt1@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF1493?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -32,14 +29,14 @@ I enjoy **transforming data into insights**, building **impactful projects**, an
 
 ---
 
-###  Tech Stack
+### Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,js,git,github,vscode,linux" />
 </p>
 
 ---
 
-###  GitHub Stats
+### GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ishika-guptaa25&show_icons=true&theme=rose_pine&hide_border=true" height="170px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishika-guptaa25&theme=rose_pine&hide_border=true" height="170px" />
@@ -47,28 +44,35 @@ I enjoy **transforming data into insights**, building **impactful projects**, an
 
 ---
 
-###  Achievements
+### Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ishika-guptaa25&theme=gruvbox&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-###  Most Used Languages
+### Contribution Graph
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+### Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishika-guptaa25&layout=compact&theme=rose_pine&hide_border=true" />
 </p>
 
 ---
 
-###  Quote
+### Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
 
-###  Profile Views
+### Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ishika-guptaa25&label=Profile%20Views&color=ff69b4&style=flat" />
 </p>
