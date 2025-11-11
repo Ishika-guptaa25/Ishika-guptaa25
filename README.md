@@ -51,9 +51,9 @@ Always learning and evolving with curiosity and creativity.
 
 ---
 
-### GitHub Streak
+### GitHub Activity
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&bg_color=0d1117&color=58a6ff&line=ff7b72&point=ff7b72&area=true" alt="Activity Graph" />
 </div>
 
 ---
