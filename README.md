@@ -51,9 +51,8 @@ Always learning and evolving with curiosity and creativity.
 
 ---
 
-### GitHub Activity
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&bg_color=0d1117&color=58a6ff&line=ff7b72&point=ff7b72&area=true" alt="Activity Graph" />
+### Contribution Graph 
+<div align="center"> <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> 
 </div>
 
 ---
