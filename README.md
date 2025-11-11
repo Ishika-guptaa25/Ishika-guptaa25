@@ -59,8 +59,9 @@ Always learning and evolving with curiosity and creativity.
 
 ### Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishika-guptaa25&layout=compact&theme=rose_pine&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishika-guptaa25&layout=compact&theme=rose_pine&hide_border=true&langs_count=6" alt="Most Used Languages" />
 </p>
+
 
 ---
 
