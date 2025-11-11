@@ -22,11 +22,20 @@ Always learning and evolving with curiosity and creativity.
 
 ### Contact
 <p align="center">
-  <a href="https://www.linkedin.com/in/ishika-gupta-y25081402"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ishikagpt1@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF1493?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Ishika_Guptaa25/"><img src="https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://www.instagram.com/ishikaaa_guptaaa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ishika-gupta-y25081402">
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ishikagpt1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF1493?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Ishika_Guptaa25/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/ishikaaa_guptaaa">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
