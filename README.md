@@ -51,9 +51,9 @@ Always learning and evolving with curiosity and creativity.
 
 ---
 
-### Contribution Graph
+### GitHub Streak
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
