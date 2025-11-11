@@ -13,7 +13,7 @@
 ---
 
 ### About Me
-I’m **Ishika Gupta**, a **BCA student** passionate about **Data Science, Analytics, and Software Development**.  
+I’m **Ishika Gupta**, passionate about **Data Science, Analytics, and Software Development**.  
 I love transforming data into insights and building meaningful digital solutions.  
 Currently exploring **Machine Learning, Data Visualization, and Python Libraries**.  
 Always learning and evolving with curiosity and creativity.
