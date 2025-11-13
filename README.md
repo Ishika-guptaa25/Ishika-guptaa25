@@ -57,7 +57,7 @@ Always learning and evolving with curiosity and creativity.
 
 ### Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ishika-guptaa25&theme=gruvbox&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ishika-guptaa25&theme=gruvbox&no-frame=true&margin-w=10&cache_seconds=0" />
 </p>
 
 ---
