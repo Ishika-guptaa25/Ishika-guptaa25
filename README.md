@@ -49,15 +49,15 @@ Always learning and evolving with curiosity and creativity.
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishika-guptaa25&show_icons=true&theme=rose_pine&hide_border=true&cache_seconds=0" height="170px" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ishika-guptaa25&theme=rose_pine&hide_border=true" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishika-guptaa25&show_icons=true&theme=rose_pine" height="170px" />
+  <img src="https://streak-stats.demolab.com?user=Ishika-guptaa25&theme=rose_pine" height="170px" />
 </p>
 
 ---
 
 ### Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ishika-guptaa25&theme=gruvbox&no-frame=true&margin-w=10&cache_seconds=0" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ishika-guptaa25&theme=gruvbox&no-frame=true" />
 </p>
 
 ---
@@ -70,7 +70,7 @@ Always learning and evolving with curiosity and creativity.
 
 ### Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishika-guptaa25&layout=compact&theme=rose_pine&hide_border=true&langs_count=6&cache_seconds=0" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishika-guptaa25&layout=compact&theme=rose_pine&hide_border=true&langs_count=6" alt="Most Used Languages" />
 </p>
 
 
