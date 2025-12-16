@@ -53,7 +53,6 @@ Always learning and evolving with curiosity and creativity.
   <img src="https://streak-stats.demolab.com?user=Ishika-guptaa25&theme=rose_pine" height="170px" />
 </p>
 
----
 
 ### Achievements
 <p align="center">
