@@ -48,10 +48,9 @@ Always learning and evolving with curiosity and creativity.
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishika-guptaa25&show_icons=true&theme=rose_pine" height="170px" />
-  <img src="https://streak-stats.demolab.com?user=Ishika-guptaa25&theme=rose_pine" height="170px" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishika-guptaa25&show_icons=true&theme=rose_pine)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ishika-guptaa25&theme=rose_pine)
+
 
 
 ### Achievements
