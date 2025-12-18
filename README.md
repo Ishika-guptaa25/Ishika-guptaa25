@@ -63,8 +63,9 @@ Always learning and evolving with curiosity and creativity.
 
 ### Contribution Graph 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/pacman.svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=F7E600&center=true&vCenter=true&width=435&lines=ᗧ···ᗣ···ᗣ···ᗣ+PACMAN+MODE+ON" />
 </p>
+>
 
 ---
 
