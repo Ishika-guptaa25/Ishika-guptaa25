@@ -62,10 +62,7 @@ Always learning and evolving with curiosity and creativity.
 ---
 
 ### Contribution Graph 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=F7E600&center=true&vCenter=true&width=435&lines=ᗧ···ᗣ···ᗣ···ᗣ+PACMAN+MODE+ON" />
-</p>
->
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
