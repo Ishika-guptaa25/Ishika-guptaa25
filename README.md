@@ -62,7 +62,9 @@ Always learning and evolving with curiosity and creativity.
 ---
 
 ### Contribution Graph 
-![Pacman Contribution Graph](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/pacman.svg" />
+</p>
 
 ---
 
