@@ -62,8 +62,7 @@ Always learning and evolving with curiosity and creativity.
 ---
 
 ### Contribution Graph 
-<div align="center"> <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> 
-</div>
+![Pacman Contribution Graph](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
