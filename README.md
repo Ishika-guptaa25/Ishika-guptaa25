@@ -55,7 +55,7 @@ Always learning and evolving with curiosity and creativity.
 
 
 ### Achievements
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishika-guptaa25&show_icons=true&theme=rose_pine)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ishika-guptaa25&theme=flat&margin-w=15)
 
 ---
 
