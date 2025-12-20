@@ -49,8 +49,7 @@ Always learning and evolving with curiosity and creativity.
 ### 📊 GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishika-guptaa25&show_icons=true&theme=rose_pine)
-![GitHub Streak](https://streak-stats.demolab.com?user=Ishika-guptaa25&theme=tokyonight&hide_border=true&cache_seconds=86400)
-
+<img src="https://streak-stats.demolab.com?user=ishika-guptaa25&theme=tokyonight&hide_border=true&v=2" />
 
 ---
 
