@@ -108,8 +108,12 @@ I love transforming data into insights and building meaningful digital solutions
 ## Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Ishika-guptaa25/Ishika-guptaa25/output/pacman-contribution-graph-dark.svg" />
+  <img 
+    src="https://raw.githubusercontent.com/Ishika-guptaa25/Ishika-guptaa25/output/pacman-contribution-graph-dark.svg"
+    width="100%"
+  />
 </p>
+
 
 ---
 
