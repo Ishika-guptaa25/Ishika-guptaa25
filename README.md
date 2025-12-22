@@ -110,7 +110,7 @@ I love transforming data into insights and building meaningful digital solutions
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/Ishika-guptaa25/Ishika-guptaa25/output/pacman-contribution-graph-dark.svg"
-    width="850"
+    width="1000"
   />
 </p>
 
