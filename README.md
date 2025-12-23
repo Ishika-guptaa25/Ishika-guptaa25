@@ -109,6 +109,8 @@ I love transforming data into insights and building meaningful digital solutions
 <p align="center">
   <img src="gitartwork.svg" width="100%" />
 </p>
+
+
 ---
 
 ## Random Dev Quote
