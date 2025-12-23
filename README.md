@@ -37,32 +37,32 @@ I love transforming data into insights and building meaningful digital solutions
 
 ---
 
-## Tech Stack
+<table>
+  <tr>
+    <td width="70%" valign="top">
 
+## 🔗 Tech Stack
 
-<div align="center">
+### 🧑‍💻 Languages
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=light" />
+### 🤖 Data Science & ML
+<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn,tensorflow,opencv" />
 
-<br/>
+### 🌐 Web Development
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
 
-### Data Science & Machine Learning
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn,tensorflow,opencv&theme=light" />
+### 🛠️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,mysql,vscode,pycharm,linux" />
 
-<br/>
+</td>
 
-### Web Development
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express&theme=light" />
+<td width="30%" align="center">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZkOXRsZHpzcTFid3Zuam4zMm5xdXFpczZjMWNqeTU0c3kyb3FscCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif" width="260"/>
+</td>
+  </tr>
+</table>
 
-<br/>
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,mysql,vscode,pycharm,vercel,linux&theme=light" />
-
-</div>
-
----
 
 ## GitHub Stats
 
