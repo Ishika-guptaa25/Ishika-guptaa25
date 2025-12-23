@@ -36,13 +36,15 @@ I love transforming data into insights and building meaningful digital solutions
 </div>
 
 ---
-
+<div align="center">
 <table>
   <tr>
     <td width="70%" valign="top">
 
 ## 🔗 Tech Stack
 
+<div align="center">
+  
 ### 🧑‍💻 Languages
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 
@@ -62,7 +64,9 @@ I love transforming data into insights and building meaningful digital solutions
 </td>
   </tr>
 </table>
+</div>
 
+---
 
 ## GitHub Stats
 
