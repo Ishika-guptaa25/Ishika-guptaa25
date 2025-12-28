@@ -72,13 +72,14 @@ I love transforming data into insights and building meaningful digital solutions
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ishika-guptaa25&show_icons=true&theme=radical" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ishika-guptaa25&show_icons=true&theme=radical" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishika-guptaa25&theme=radical" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishika-guptaa25&theme=radical" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishika-guptaa25&theme=github_dark" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishika-guptaa25&theme=github_dark" />
 
 </div>
+
 
 ---
 
