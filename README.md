@@ -15,11 +15,10 @@
 
 ## About Me
 
-I'm **Ishika Gupta**, a BCA student from India passionate about **Data Science, AI, and Software Development**.  
+I'm **Ishika Gupta**, a BCA student from India passionate about **Data Science, AI, and Web Development**.  
 I love transforming data into insights and building meaningful digital solutions.
 
-- Based in India 🇮🇳
-- BCA Student focused on Data Science and AI
+- BCA Student focused on Data Science and Full Stack & AI 
 - Working on Machine Learning and Computer Vision projects
 
 ---
@@ -83,25 +82,6 @@ I love transforming data into insights and building meaningful digital solutions
 
 ---
 
-## Most Used Languages
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishika-guptaa25&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-## Achievements
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Ishika-guptaa25&theme=gruvbox&no-frame=true)
-
-</div>
-
----
 
 ## Contribution Graph
 
@@ -117,32 +97,4 @@ I love transforming data into insights and building meaningful digital solutions
 </p>
 
 
----
-
-## Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## Profile Views
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=Ishika-guptaa25&label=Profile%20views&color=0e75b6&style=flat)
-
-</div>
-
----
-
-<div align="center">
-
-### "Analyze what you see, build what you dream."
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
-</div>
 
