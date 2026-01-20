@@ -2,12 +2,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=58ffa&size=22&center=true&lines=Hello,+World!;Welcome+to+My+Profile;Happy+to+See+You+Here;Feel+Free+to+Look+Around;Reach+Me+Out+If+You+Need+Me;Have+a+Great+Day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=58ffa&size=22&center=true&lines=Hello,+World!;BCA+Student;Data+Science+Enthusiast;AI+%26+ML+Explorer;Python+Developer;Full+Stack+Development)](https://git.io/typing-svg)
 
 </div> 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Ishika%20Gupta&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=3AlignY=51&descAlign=62&descSize=20)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=BCA+Student;Data+Science+Enthusiast;AI+%26+ML+Explorer;Python+Developer;Full+Stack+Development;Computer+Vision;Always+Learning+New+Things&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45)](https://github.com/Ishika-guptaa25)
+<p align="center">
+  <img src="github-header-banner.png" width="100%" />
+</p>
 
 </div>
 
