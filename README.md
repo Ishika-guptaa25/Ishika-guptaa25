@@ -47,7 +47,7 @@ I love transforming data into insights and building meaningful digital solutions
 ## 🔗 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,express,numpy,pandas,matplotlib,sklearn,tensorflow,opencv,mysql,git,github,vscode,pycharm,linux" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,express,sklearn,tensorflow,opencv,mysql,git,github,vscode,pycharm,linux" />
 </p>
 
 <p align="center">
