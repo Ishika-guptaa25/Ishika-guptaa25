@@ -42,10 +42,11 @@ I love transforming data into insights and building meaningful digital solutions
   <tr>
     <td width="70%" valign="top">
     
+---
 
 ## 🔗 Tech Stack
 
-<div align="center">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,js,html" /><br><br>
 
@@ -59,7 +60,7 @@ I love transforming data into insights and building meaningful digital solutions
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Q3cHN2bzlrejJzMGE1d2Z3d2RhNDAybWNoODMwNDNnbTRmN3k1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" width="260"/>
 
-</div>
+</p>
 
 ---
 
