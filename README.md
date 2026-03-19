@@ -51,7 +51,7 @@ I love transforming data into insights and building meaningful digital solutions
 </p>
 
 <p align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Q3cHN2bzlrejJzMGE1d2Z3d2RhNDAybWNoODMwNDNnbTRmN3k1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" width="260"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Q3cHN2bzlrejJzMGE1d2Z3d2RhNDAybWNoODMwNDNnbTRmN3k1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" width="190"/>
 </p>
 
 
