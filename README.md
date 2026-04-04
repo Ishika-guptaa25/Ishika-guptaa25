@@ -16,11 +16,10 @@
 
 ## About Me
 
-I'm **Ishika Gupta**, a BCA student from India passionate about **Data Science, AI, and Web Development**.  
+I'm **Ishika Gupta**, a BCA student from India passionate about **Data Science and AIML.  
 I love transforming data into insights and building meaningful digital solutions.
 
-- BCA Student focused on Data Science and Full Stack & AI 
-- Working on Machine Learning and Computer Vision projects
+-Currently Working on Machine Learning and Computer Vision projects
 
 ---
 
