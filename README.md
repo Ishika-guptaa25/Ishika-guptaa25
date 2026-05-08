@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm **Ishika Gupta**, a BCA student from India passionate about **Data Science and AIML.  
+I'm **Ishika Gupta**, a BCA student from India passionate about Data Science and AIML.  
 I love transforming data into insights and building meaningful digital solutions.
 
 ---
