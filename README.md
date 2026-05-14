@@ -4,7 +4,7 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=58ffa&size=22&center=true&lines=Hello,+World!;BCA+Student;Data+Science+Enthusiast;AI+%26+ML+Explorer;Python+Developer)](https://git.io/typing-svg)
 
-</div> 
+</div>  
 
 <p align="center">
   <img src="github-header-banner3.png" width="100%" />
