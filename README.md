@@ -1,6 +1,6 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-<div align="center">
+<div align="center"> 
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=58ffa&size=22&center=true&lines=Hello,+World!;BCA+Student;Data+Science+Enthusiast;AI+%26+ML+Explorer;Python+Developer)](https://git.io/typing-svg)
 
