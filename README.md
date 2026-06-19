@@ -14,20 +14,14 @@
 
 ---
 
-## About Me
-
-I'm **Ishika Gupta**, a BCA student from India passionate about Data Science and AIML.  
-I love transforming data into insights and building meaningful digital solutions.
-
----
 
 ## Connect with Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishika-gupta-y25081402)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishikagpt1@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ishika_Guptaa25/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishikagpt1@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ishikaaa_guptaaa)
 
 </div>
