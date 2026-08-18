@@ -48,13 +48,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ishika-guptaa25&show_icons=true&theme=radical" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ishika-guptaa25&show_icons=true&theme=radical&hide_border=true" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishika-guptaa25&theme=radical" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Ishika-guptaa25&theme=radical&hide_border=true" />
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishika-guptaa25&theme=github_dark" />
 
